@@ -1,7 +1,7 @@
 ### Hi there! Luiz Macedo here! 👋 ![](https://komarev.com/ghpvc/?username=luizmacedo&color=blueviolet&style=flat)   
 <div>
   <a href="https://github.com/Walassseee">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walassseee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walassseee&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walassseee&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
