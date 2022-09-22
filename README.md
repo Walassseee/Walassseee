@@ -1,4 +1,4 @@
-### Olá esse é o perfil do Walasse! [](https://komarev.com/ghpvc/?username=walassseee&color=blueviolet&style=flat)   
+### Olá eu sou o Walasse! [](https://komarev.com/ghpvc/?username=walassseee&color=blueviolet&style=flat)   
 
 <div>
   <a href="https://github.com/Walassseee">
