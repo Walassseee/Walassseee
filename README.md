@@ -1,19 +1,8 @@
-### Hi there! Luiz Macedo here! 👋 ![](https://komarev.com/ghpvc/?username=luizmacedo&color=blueviolet&style=flat)   
+### Hi there! Luiz Macedo here! 👋 ![](https://komarev.com/ghpvc/?username=walassseee&color=blueviolet&style=flat)   
 <div>
   <a href="https://github.com/Walassseee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walassseee&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walassseee&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Luiz-Python" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Luiz-HTML" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Luiz-CSS" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Luiz-Js" height="30" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=walassseee&layout=compact&langs_count=7"/>
 </div>
 
 ##
