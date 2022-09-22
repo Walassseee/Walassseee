@@ -14,10 +14,10 @@
 </p>
 
 <div>
-    <a href="https://www.linkedin.com/in/luizfmacedo/" target="_blank"><img
+    <a href="https://www.linkedin.com/in/walasse-tomaz-2b5ba21a4/" target="_blank"><img
             src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
-    <a href="https://www.instagram.com/oluizmacedo" target="_blank"><img
+    <a href="https://www.instagram.com/academicoeconomico" target="_blank"><img
             src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             target="_blank"></a>
 
