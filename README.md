@@ -1,4 +1,5 @@
-### Hi there! Luiz Macedo here! 👋 ![](https://komarev.com/ghpvc/?username=walassseee&color=blueviolet&style=flat)   
+### Olá esse é o perfil do Walasse! [](https://komarev.com/ghpvc/?username=walassseee&color=blueviolet&style=flat)   
+
 <div>
   <a href="https://github.com/Walassseee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=walassseee&show_icons=true&include_all_commits=true&count_private=true"/>
@@ -9,7 +10,7 @@
     
 <p>
     <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizmacedo&theme=github_dark" />
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=walassseee" />
 </p>
 
 <div>
