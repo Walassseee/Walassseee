@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Oregon Tool Ldta.**
 
-- 🌱 I’m currently learning **Julia, Rust and Golang**
+- 🌱 I’m currently learning **Julia, Scala, Rust and Golang**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
