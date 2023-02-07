@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Oregon Tool Ldta.**
 
-- 🌱 I’m currently learning **Statistics and Machine Learning**
+- 🌱 I’m currently learning **Julia, Rust and Golang**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
-
-- 🤝 I’m looking for help with **NoSQL Data Base**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Walassseee](https://github.com/Walassseee)
 
