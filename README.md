@@ -11,4 +11,4 @@
 
 - 💬 Ask me about **Econometric Modeling**
 
-- 📫 How to reach me **[walasse.tomaz@gmail.com](https://www.linkedin.com/in/walasse-tomaz-2b5ba21a4/)**
+- 📫 How to reach me **[LinkedIn Profile](https://www.linkedin.com/in/walasse-tomaz-2b5ba21a4/)**
