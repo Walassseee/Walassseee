@@ -1,14 +1,16 @@
-<h1 align="center">Hi, I'm Walasse Tomaz</h1>
-<h3 align="center">Economics Student at Federal University of Paraná And Junior Cost Analyst at Oregon Tool</h3>
+<h1 align="center">Olá, eu sou Walasse 👋</h1>
 
-- 🔭 I’m currently working on **Oregon Tool Ldta.**
+---
 
-- 🌱 I’m currently learning **How to Solve Business Problems with Data**
+Analista de Custos Júnior na Oregon Tool e Mestrando em Economia. 
+Utilizo minha base em modelagem econométrica e análise de dados para otimizar processos financeiros e apoiar a tomada de decisão estratégica. 
+Experiência em análise de variações, projeções e automação com Python e R. 
+Comprometido em gerar insights acionáveis que contribuem para o sucesso do negócio.
 
-- 👯 I’m looking to collaborate on **Applied Economics and Econometric Modeling**
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Walassseee](https://github.com/Walassseee)
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=111&style=flat-square)
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
+![R](https://img.shields.io/static/v1?logo=R&label=&message=R&color=36465D&logoColor=AAA&style=flat-square)
 
-- 💬 Ask me about **Applied Economics and Econometric Modeling**
-
-- 📫 How to reach me **[LinkedIn Profile](https://www.linkedin.com/in/walasse-tomaz-2b5ba21a4/)**
+📫 Reach me on <a href="https://www.linkedin.com/in/walasse-tomaz-2b5ba21a4" target="_blank">LinkedIn</a>
